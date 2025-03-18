@@ -1,4 +1,4 @@
-package com.ds.Part2.배열;
+package com.ds.concept.Part2.배열;
 
 import java.util.NoSuchElementException;
 
